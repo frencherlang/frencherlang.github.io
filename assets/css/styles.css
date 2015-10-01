@@ -179,7 +179,7 @@ pre code {
   padding-bottom: 40px;
 }
 .promo .title {
-  font-size: 98px;
+/*  font-size: 98px;*/
   color: #fff;
   margin-top: 0;
 }
@@ -194,7 +194,6 @@ pre code {
 }
 .promo .btns .btn {
   margin-right: 15px;
-  font-size: 18px;
   padding: 8px 30px;
 }
 .promo .meta {
@@ -320,15 +319,13 @@ pre code {
     padding-left: 15px;
     padding-right: 15px;
   }
-  .promo .btns .btn {
+  /*.promo .btns .btn {
     margin-right: 0;
     clear: both;
     display: block;
     margin-bottom: 30px;
   }
-  .promo .title {
-    font-size: 66px;
-  }
+*/
     
   .promo .meta {
     margin-top: 60px;
