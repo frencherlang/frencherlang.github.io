@@ -319,6 +319,10 @@ pre code {
     padding-left: 15px;
     padding-right: 15px;
   }
+    
+  .logo-title {
+      font-size= 14px;
+  }
   /*.promo .btns .btn {
     margin-right: 0;
     clear: both;
@@ -362,4 +366,9 @@ pre code {
 
 .footer a {
     color: #eebf3f;
+}
+
+
+.rencontres {
+    background: None;
 }
